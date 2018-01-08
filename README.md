@@ -1,0 +1,2 @@
+# MCSim
+CMake build configuration
