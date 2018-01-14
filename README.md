@@ -5,9 +5,9 @@ CMake build configuration
 
 ### libSBML
 
-[CMake build config for dependencies](https://github.com/sbmlteam/libSBML-dependencies).
+[CMake build config for dependencies](https://github.com/sbmlteam/libSBML-dependencies)
 
-(libSBML-5.16.0-core-src.tar.gz from) [sourceforge](https://sourceforge.net/projects/sbml/).
+(libSBML-5.16.0-core-src.tar.gz from) [sourceforge](https://sourceforge.net/projects/sbml/)
 
 [Instructions](http://sbml.org/Software/libSBML/5.16.0/docs//cpp-api/libsbml-installation.html#windows-configuring)
 
@@ -15,6 +15,8 @@ CMake build configuration
 [CMake build config](https://github.com/ampl/gsl)
 
 ## Locating Build Dependencies
+
+Building MCSim requires the libs to be distributed as follows:
 
 ### Microsoft Visual C++ 2017
 ```
